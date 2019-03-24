@@ -1,0 +1,23 @@
+html, body{height:100%;}
+body{background-color:#000000;background-image:url('images/fond-confetti.png');margin:0;padding:0;}
+#Tableau_01{z-index:10;}
+.mots{position:absolute;z-index:1;overflow:hidden;color:#333;font-family:"Comic sans MS", Verdana, Arial, Helvetica, sans-serif;font-size:0.9em;}
+#mot1{left:5%;top:30%;}
+#mot2{left:45%;top:80%;}
+#mot3{left:75%;top:55%;}
+#mot4{left:60%;top:20%;}
+#mot5{left:90%;top:13%;}
+#mot6{left:10%;top:10%;}
+#mot7{left:90%;top:90%;}
+#mot8{left:8%;top:92%;}
+#mot9{left:12%;top:63%;}
+#mot10{left:80%;top:33%;}
+.textual-nav{z-index:999;color:white;font-family:Trebuchet MS, Verdana, Arial;font-size:0.8em;display:block;position:absolute;left:50%;top:50%;padding:10px;background:#333;border-style:dotted;border-color:white;border-width:1px;}
+h1{font-size:1em;font-weight:normal;display:inline;}
+#textual-nav-home{margin-top:290px;margin-left:60px;}
+#textual-nav-animations{margin-top:240px;margin-left:-250px;}
+.textual-nav A:link{color:white;text-decoration:none;}
+.textual-nav A:visited{color:white;text-decoration:none;}
+.textual-nav A:active{color:white;text-decoration:underline;}
+.textual-nav A:hover{color:white;text-decoration:underline;}
+#textual-nav-navigation #tarifs{font-weight:900;padding:3px;color:black;background:white;}

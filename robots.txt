@@ -1,0 +1,19 @@
+User-Agent: OmniExplorer_Bot
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-agent: RealWebsiteWorth
+Disallow: /
+
+User-agent: WebsiteOutlook
+Disallow: /
+
+User-agent: Estimix
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.enfetanime.com/sitemap.xml

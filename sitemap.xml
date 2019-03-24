@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.enfetanime.com/</loc>
+  <lastmod>2011-01-10T14:33:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/animations.html</loc>
+  <lastmod>2010-10-23T22:31:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/anniversaires.html</loc>
+  <lastmod>2010-10-23T22:32:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/kikone.html</loc>
+  <lastmod>2010-10-23T22:31:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/contact.html</loc>
+  <lastmod>2010-10-23T22:31:41+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/mariages.html</loc>
+  <lastmod>2010-10-23T22:31:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/noel.html</loc>
+  <lastmod>2010-10-23T22:31:39+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/documents/Prestations_Enfetanime_2009.pdf</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/liens.html</loc>
+  <lastmod>2010-10-22T14:30:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.enfetanime.com/documents/Doc_Mariages_2.pdf</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>
